@@ -2,7 +2,9 @@
 Really poorly written program that corrupts mp3 files! Thought I would upload this because I guess sometime somewhere somebody MIGHT have a use for a program like this. Abides by no proper coding conventions and comments were an afterthought, good luck!
 
 How to run it:
-Unlike every other stupid git hub project that tells you to type 15+ things into a command line interface but NOT what command line interface/interfaces to use (please be more cortiuous guys, some of us are not as smart). Just open my projects lib folder and run the jar file titled “AudioCorruptor”
+Unlike every other stupid git hub project that tells you to type 15+ things into a command line interface but NOT what command line interface/interfaces and does not work half the time because you forgot 1 of the 20 dependencies required (please be more cortiuous guys, some of us are not as smart). 
+
+Just download the zip file and run the jar file titled “AudioCorruptor”
 
 
 Hi, here are the instructions on how to use please be gentle with the code it has been tested like once ever:  
